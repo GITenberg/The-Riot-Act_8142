@@ -1,0 +1,22 @@
+_repo: The-Riot-Act_8142
+creator:
+  author:
+    agent_name: Great Britain. Parliament
+    alias: Parliament, British
+    gutenberg_agent_id: '2664'
+    url: http://www.gutenberg.org/2009/agents/2664
+description: ''
+gutenberg_bookshelf: British Law
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8142'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KD'
+- !lcsh 'Law -- Great Britain'
+title: The Riot Act
+url: http://www.gutenberg.org/ebooks/8142
